@@ -1,0 +1,15 @@
+Assignment 1
+
+Q-1 Explain Transmission Media. Explain types of guided media with its applications, advantages and disadvantages.
+
+Q-2 Explain Internet Transport Protocols in detail. Explain TCP with its features and services. Discuss difference between FTP and UDP
+
+0-3 Write Case Study of E-mail.
+
+Assignment 2
+
+0-1 Explain wireless ad-hoc and sensor network.
+
+Q-2 Explain Internet and Intranet architecture.
+
+Q-3 Explain OSI model in detail.

@@ -1,0 +1,15 @@
+ASSIGNMENT-1
+
+1. What is master page? Why it is needed? Explain nested master page.
+
+2. What is event? Explain page life cycle.
+
+3. Explain validation controls in detail.
+
+ASSIGNMENT-2
+
+1. Explain grid view, adrotator and data list controls.
+
+2. What is data binding? Write a code snippet for database connectivity.
+
+3. Explain state management techniques with example.
