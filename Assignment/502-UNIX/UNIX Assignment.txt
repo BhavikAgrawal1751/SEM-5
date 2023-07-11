@@ -1,0 +1,18 @@
+
+https://chat.openai.com/share/ad2c9fed-9415-4b4c-a0bb-f37048ba00f9
+
+Assignment 1
+
+Q1.Write a note on file system components of UNIX OS.
+
+Q2.Explain the kernel architecture of UNIX OS in detail.
+
+Q3.Write a note on shell interpretation at command prompt
+
+Assignment 2
+
+Q1.Define Filter. List all filters and explain any two-filtering utility in Unix
+
+Q2.List out the communication commands and write a note on any two.
+
+Q3.What is background and foreground process? Explain it with example.
