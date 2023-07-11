@@ -1,0 +1,19 @@
+T.Y.BCA (Sem. -5) JOURNAL (ASP.NET-505): A.Y. 2023-24
+
+1 Create a web page with following controls and display inputted/selected values: Text Box, Radio Button, Radio Button List, Checkbox, Check box list, Calendar, Drop Down List. List box, File Upload Control
+
+2 Use session, query string, view state, cookies and application variable using appropriate example (Set and Get)
+
+3 Develop web form for Vehicle Entry (Only HTML/ASPX Code) using appropriate
+
+master page, header, footer and data base table. [Hint: Vehicle Master (V_Id, V_Name, V Type, Owner Name, V PurchaseAmount OwnerContactNo, OwnerEmail, OwnerAddress, V_RegDate)]
+
+Apply validations in the form developed in the above Question No. 3.
+
+5 Develop code for insert, update, search and delete facilities using form developed in the above Question No. 3. Where GridView Control can be used.
+
+Create and consume a web service to display multiplication and division operations.
+
+Apply exception handling in Question No.3 Apply themes in Question No.3
+
+Apply proper security in Question No.3
