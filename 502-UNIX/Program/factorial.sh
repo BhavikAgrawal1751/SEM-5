@@ -1,13 +1,9 @@
-echo "Enter Num :- "
-read num
-
-fact=1
-
-while [ $num -gt 1 ]
+echo "Enter No :- "
+read n
+ans=1
+while [ $n -gt 1 ]
 do
-	fact=`expr $fact \* $num`
-	num=`expr $num - 1`
-	
+ans=`expr $n \* $ans`
+n=`expr $n - 1`
 done
-	
-echo $fact
+echo "fact is $ans"
