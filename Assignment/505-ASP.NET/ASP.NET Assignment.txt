@@ -1,3 +1,6 @@
+
+https://chat.openai.com/share/10d2874a-3a5c-4f28-8e25-1cf03a316140
+
 ASSIGNMENT-1
 
 1. What is master page? Why it is needed? Explain nested master page.
@@ -8,7 +11,7 @@ ASSIGNMENT-1
 
 ASSIGNMENT-2
 
-1. Explain grid view, adrotator and data list controls.
+1. Explain grid view, adrotator and data list controls. https://www.simplilearn.com/tutorials/asp-dot-net-tutorial/asp-dot-net-grid-view#:~:text=cost%2C%20and%20language.-,What%20is%20ASP.NET%20GridView%3F,each%20row%20represents%20a%20record.
 
 2. What is data binding? Write a code snippet for database connectivity.
 
