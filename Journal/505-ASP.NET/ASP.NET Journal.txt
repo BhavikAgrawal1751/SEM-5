@@ -8,12 +8,14 @@ T.Y.BCA (Sem. -5) JOURNAL (ASP.NET-505): A.Y. 2023-24
 
 master page, header, footer and data base table. [Hint: Vehicle Master (V_Id, V_Name, V Type, Owner Name, V PurchaseAmount OwnerContactNo, OwnerEmail, OwnerAddress, V_RegDate)]
 
-Apply validations in the form developed in the above Question No. 3.
+4.Apply validations in the form developed in the above Question No. 3.
 
 5 Develop code for insert, update, search and delete facilities using form developed in the above Question No. 3. Where GridView Control can be used.
 
-Create and consume a web service to display multiplication and division operations.
+6.Create and consume a web service to display multiplication and division operations.
 
-Apply exception handling in Question No.3 Apply themes in Question No.3
+7.Apply exception handling in Question No.3 
 
-Apply proper security in Question No.3
+8.Apply themes in Question No.3
+
+9.Apply proper security in Question No.3
