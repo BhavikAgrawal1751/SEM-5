@@ -1,9 +1,9 @@
-echo "Enter Number :- " 
-read x
-ans =`expr $x % 2`
+echo "Enter no. "
+read n
+ans=`expr $x % 2`
 if [ $ans -eq 0 ]
 then
-echo "The Number is Even"
+echo "even"
 else
-echo "The Number is Odd"
+echo "odd"
 fi
