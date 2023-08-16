@@ -1,0 +1,21 @@
+UCCC & SPBCBA & SDHG COLLEGE OF BCA & I.T. T.Y.B.C.A. (Sem-5th) Web Framework and Services (Paper No. 504 Academic Year 2023-24
+
+Journal
+
+Questions
+
+Q1.Write a PHP script to sort the given user defined array in either ascending or descending order according to user choice.
+
+Q2.Create a registration form for patient with minimum 12 fields including file upload
+
+Q3.facility for reports of the patients. Do necessary validations on all the fields (DeserOnly)
+
+Q4.Perform CRUD Operation for the patient. Also provide search patient facility
+
+Q5.Create a Sign in form for patient. Upon successful sign is patient can give feedback about hospital using feedback form. Create feedback form Manage session and cookies between the logs in and log out process.
+
+Q6.Write a python program to perform Count Visitors of Page and call it using pho
+
+Q7.Werte a PHP script to create Photo Album Application and call using python
+
+Q8.Create Album Lipload Photos in Album Display Album in Gallery
