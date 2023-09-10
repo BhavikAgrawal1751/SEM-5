@@ -1,0 +1,49 @@
+﻿<%@ Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table width="100%">
+            <tr>
+                <td style="background-color:Blue;font-size:46px;color:White;" align="center">
+                    ABC LTD.
+                </td>
+            </tr>
+            <tr align="center">
+                <td>
+                    <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
+                        <Items>
+                            <asp:MenuItem NavigateUrl="~/AboutUs.aspx" Text="About Us" Value="About Us">
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/LoginPage .aspx" Text="Login" Value="Login">
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Products.aspx" Text="Products" Value="Products">
+                                <asp:MenuItem Text="Crockery" Value="Crockery"></asp:MenuItem>
+                                <asp:MenuItem Text="Electronic" Value="Electronic"></asp:MenuItem>
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/StuReg.aspx" Text="Student Registration" 
+                                Value="Student Registration"></asp:MenuItem>
+                        </Items>
+                    </asp:Menu>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td align="center"> Copyrights @ ABC Compnay Ltd.
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>
