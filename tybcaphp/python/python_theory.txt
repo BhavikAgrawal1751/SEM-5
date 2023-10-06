@@ -1,0 +1,36 @@
+Popen
+`subprocess.Popen` is a lower-level interface to running subprocesses.
+
+Popen allows you to start a new process and interact with its standard input, output, and error streams. It returns a handle to the running process that can be used to wait for the process to complete, check its return code, or terminate it.
+
+Python subprocess module provides a way to create and interact with child processes, which can be used to run other programs or commands. One of the features of the subprocess module is the ability to create pipes, which allow communication between the parent and child processes.
+
+A pipe is a unidirectional communication channel that connects one process's standard output to another's standard input. A pipe can connect the output of one command to the input of another, allowing the output of the first command to be used as input to the second command.
+
+Pipes can be created using the subprocess module with the Popen class by specifying the stdout or stdin argument as subprocess.PIPE.
+
+For example, the following code creates a pipe that connects the output of the ls command to the input of the grep command, which filters the output to show only the lines that contain the word "file"
+
+import subprocess
+
+ls_process = subprocess.Popen(["ls"], stdout=subprocess.PIPE, text=True)
+
+grep_process = subprocess.Popen(["grep", "sample"], stdin=ls_process.stdout, stdout=subprocess.PIPE, text=True)
+
+output, error = grep_process.communicate()
+
+print(output)
+
+print(error)
+
+Communicate
+
+Split
+
+Check_Call
+
+Check_Output
+
+check_output is a function in the subprocess module, it only returns the standard output of the command, and raises a CalledProcessError exception if the return code is non-zero.
+
+The check_output function returns the standard output of the command as a bytes object.
