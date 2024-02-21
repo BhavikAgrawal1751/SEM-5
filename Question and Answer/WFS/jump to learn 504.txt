@@ -1,0 +1,127 @@
+Sample Questions
+
+Sub: Web Framework Services.
+
+Q-1 Short Questions.
+
+I) What is static variable? Explain with example.
+
+2) Differentiat e GET and POST.
+
+3) Differentiate local and global Variable.
+
+4) What is flask?
+
+5) Expla in OS modules mkdir () and makedirs()
+
+6) What LS render_template() method?
+
+7) Write full form of php and list all php tag.
+
+8) Differentiate include and require.
+
+9) What is the use of url_for() function ?
+
+Q-2. Long Questions
+
+7) Explain jinja 2 delimiters.
+
+8) What is constant? How to create and use co~sta nt variable? Expla in: with exam
+
+9) How to upload file in php?
+
+10)Describe Flask HITP methods with one example.
+
+11 )Explain PHP Array and its type in detail.
+
+12)Explain Session in detail.
+
+13) Write a program which executes python script into php.
+
+l4)Differentiate put and post method of flask.
+
+15)W rite a PHP script which demo nstrat e connection and any 2 basic operation
+
+16)Funtionality (add/update/delete/search) records with your choice of Database
+
+17) Write the difference between echo and print
+
+18)Expain $msg and $$msg.
+
+19) Write the different ways in which you can create constants.
+
+20)W rite the types of data with example,
+
+21) What is the use of header function ?
+
+22)Write the difference between indexed and associative array.
+
+23)Explain how to upload the files in Php.
+
+24) Which function is used to send Email .Explain.
+
+25 )How to create database connection in php.
+
+26)Explain require() and include() functions
+
+27) What is cookie ? how to create it.
+
+28)How the data is stored in session.
+
+29)What is the difference between ' and " ?
+
+30)Is Php case sensitive? Justify.
+
+31 )Explain array functions.
+
+32)HoW you can integrate python with php and viceversa.
+
+33 )Explain subprocess module in python.
+
+34)Explain os module and walk in python
+
+35)What is WSGI? Explain the working of it.
+
+36)Wbat is JINJA 2-Web template Engine ? Write the features of it.
+
+37)What is the advantages of URL building? How can you create it
+
+38)What is use of add_url rule() and url _ for() ?
+
+39)Write the use of render_template().
+
+40)How you Can embed python statements in HTML?
+
+41 )How to upload and download files in flask ?
+
+42)Explain Json Parsing in php.
+I
+43)Wha1 do ),Ou n1c~n b: php filte1~¥t
+
+44) How can you process search query in backend using Ajax?
+
+45) Explain Redirect,escapeshellcmd,shell_exec methods.
+
+46)Difference between == and ===.
+
+47)Print vs print_r
+
+48)What do you mean by resource data type in php.
+
+49)Explain validation with regular expression in php.
+
+5O)Explain any 5 date function ,array function, string function.
+
+
+
+Q.3 Explain following Functions with example.
+
+1) checkdate()
+2) rson()
+3) preg_match()
+4 ) ceil()
+5 ) fopeen()
+6) header()
+7) substr()
+8) strrev()
+9 ) print()
