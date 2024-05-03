@@ -4,29 +4,50 @@ Sub: UNIX & SHELL PROGRAMMING
 
 Q-1 Short Questions.
 
-1. List out functions of kernel.
+1. List out functions of kernel. pg 19,20
 
 2. Explain the purpose of super block.
 
+-> The purpose of a superblock is to store important information about a file system, such as its type, size, status, and other metadata structures. A superblock is essential for mounting and accessing a file system, as it tells the operating system how to read and write data on it. A superblock also helps to recover a file system in case of corruption or damage, by providing backup copies of itself in different locations.
+
 3. What is the purpose of /bin directory of Unix file system?
+
+-> The /bin directory in the Unix file system contains essential user binaries (programs) that must be present when the system is mounted in single-user mode . It contains executable files, Linux commands that are used in single-user mode, and common commands that are used by all users, such as cat, cp, cd, and ls . The /bin directory also contains several useful commands that are of use to both the system administrator as well as non-privileged users
 
 4. Explain-u-n.-r options of sort.
 
-5. Define redirection. List out the symbols used for redirection.
+-> -u: This option is used to remove duplicate lines from the output. If there are multiple lines that are identical, only one copy of the line will be printed .
+ -n: This option is used to sort the file numerically. It is used when we want to sort a file with numeric data present inside .
+ -r: This option is used to sort the input file in reverse order i.e. descending order by default .
+
+5. Define redirection. List out the symbols used for redirection. pg 11
 
 6. What is a daemon process? How a daemon process can be killed?
 
 7. What will be the file and directory permission when the command umask 777 is used?
 
+-> When the command umask 777 is used, it means that the default permissions for newly created files and directories will have all permissions removed for the owner, group, and others.
+
 8. Explain the use of tee command.
 
+-> The tee command in Linux is used to read standard input and write it to both standard output and one or more files. It is named after the T-splitter used in plumbing, which breaks the output of a program so that it can be both displayed and saved in a file .
+
 9. Differentiate between while and until loop.
+
+-> The main difference between while and until loop is that they have opposite conditions for executing the loop body. A while loop executes the loop body as long as the condition is true, and stops when it is false. An until loop executes the loop body as long as the condition is false, and stops when it is true.
 
 10. What will be the output of the command (ls-1; who) > myfile.txt?
 
 11. What is the difference between scheduling processes using batch command and using at command
 
-12. What information contain by $? And S# variable?
+->
+
+ The at command executes commands at a specified time, while the batch command executes commands when the system load is low
+
+ The at command allows you to specify the exact date and time for running a command or a
+  script, either in absolute or relative terms
+
+12. What information contain by $? And S# variable? 
 
 13. What happen when ed command is run without arguments?
 
